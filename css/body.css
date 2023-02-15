@@ -1,6 +1,6 @@
 .body {
     font-family: 'Lato', sans-serif;
-    background-color: #C6F8FF;
+    background-image: url(../images/background.png);
 }
 
 .header {
@@ -28,5 +28,10 @@
     margin: 20px;
     font-size: 20px;
     font-weight: bold;
-
+    border-radius: 10px;
+    border: 3px solid rgba(18, 139, 209, 0.678);
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 950px;
+    background-color: #73ffe0;
 }
