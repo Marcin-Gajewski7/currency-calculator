@@ -1,4 +1,8 @@
 
+const welcome = () => {
+    console.log("Hello World !!!");
+};
+
 const calculateResult = (amount, currency) => {
     const EUR = "0.22";
     const USD = "0.23";
